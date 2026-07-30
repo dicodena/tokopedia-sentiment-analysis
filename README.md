@@ -2,6 +2,7 @@
 Analisis sentimen pada review produk di apllikasi belanja online tokopedia dengan menggunakan Excel dan Google Looker Studio
 
 *Dataset* : Dataset diambil dari web opensource kaggle berikut (https://www.kaggle.com/datasets/farhan999/tokopedia-product-reviews)
+
 *Tools* : Excel untuk proses EDA dan Google Looker Studio untuk visualisasi
 
 ## Tautan Dashboard
